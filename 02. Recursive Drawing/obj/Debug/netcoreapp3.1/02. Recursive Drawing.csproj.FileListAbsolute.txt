@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.exe
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.deps.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\bin\Debug\netcoreapp3.1\02. Recursive Drawing.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\02. Recursive Drawing\obj\Debug\netcoreapp3.1\02. Recursive Drawing.genruntimeconfig.cache

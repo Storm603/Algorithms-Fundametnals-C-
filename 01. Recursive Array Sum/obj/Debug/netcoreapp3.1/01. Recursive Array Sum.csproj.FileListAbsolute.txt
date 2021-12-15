@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.exe
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.deps.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\bin\Debug\netcoreapp3.1\01. Recursive Array Sum.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\01. Recursive Array Sum\obj\Debug\netcoreapp3.1\01. Recursive Array Sum.genruntimeconfig.cache
