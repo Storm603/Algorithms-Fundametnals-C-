@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.exe
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.deps.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\bin\Debug\netcoreapp3.1\T06. The Queens Puzzle.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.dll
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.pdb
+C:\Users\Kristiyan\source\repos\Recursion and Backtracking\T06. The Queens Puzzle\obj\Debug\netcoreapp3.1\T06. The Queens Puzzle.genruntimeconfig.cache
