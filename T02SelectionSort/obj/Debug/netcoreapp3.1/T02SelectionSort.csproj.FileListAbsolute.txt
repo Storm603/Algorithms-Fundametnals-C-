@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.exe
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.deps.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\bin\Debug\netcoreapp3.1\T02SelectionSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T02SelectionSort\obj\Debug\netcoreapp3.1\T02SelectionSort.genruntimeconfig.cache
