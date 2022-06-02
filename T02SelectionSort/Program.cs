@@ -18,33 +18,33 @@ namespace T02SelectionSort
         {
             for (int i = 0; i < nums.Length; i++)
             {
-                bool toSwap = false;
-                int smallest = 0;
-                int index = 0;
+                int min = nums[i];
+                int smallestIndex = 0;
+                bool toSwapNumbers = false;
                 for (int j = 1 + i; j < nums.Length; j++)
                 {
-                    if (nums[j] < nums[i])
+                    if (nums[j] < min)
                     {
-                        smallest = nums[j];
-                        index = j;
-                        toSwap = true;
+                        min = nums[j];
+                        smallestIndex = j;
+                        toSwapNumbers = true;
                     }
                 }
 
-                if (toSwap)
+                if (toSwapNumbers)
                 {
-                    nums = Swap(nums, smallest, index, i);
+                    nums = Swap(nums, smallestIndex, i);
                 }
             }
 
             return nums;
         }
 
-        private static int[] Swap(int[] nums, int smallest, int index, int i)
+        private static int[] Swap(int[] nums, int smallestIndex, int i)
         {
             int temp = nums[i];
-            nums[i] = smallest;
-            nums[index] = temp;
+            nums[i] = nums[smallestIndex];
+            nums[smallestIndex] = temp;
 
             return nums;
         }

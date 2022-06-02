@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.exe
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.deps.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\bin\Debug\netcoreapp3.1\T04. Insertion Sort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T04. Insertion Sort\obj\Debug\netcoreapp3.1\T04. Insertion Sort.genruntimeconfig.cache

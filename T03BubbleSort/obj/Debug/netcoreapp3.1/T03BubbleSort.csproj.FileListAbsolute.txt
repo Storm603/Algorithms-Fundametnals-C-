@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.exe
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.deps.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\bin\Debug\netcoreapp3.1\T03BubbleSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T03BubbleSort\obj\Debug\netcoreapp3.1\T03BubbleSort.genruntimeconfig.cache

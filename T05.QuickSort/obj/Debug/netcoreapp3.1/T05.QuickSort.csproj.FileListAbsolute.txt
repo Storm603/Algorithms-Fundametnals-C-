@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.exe
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.deps.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\bin\Debug\netcoreapp3.1\T05.QuickSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.dll
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.pdb
+C:\Users\Kristiyan\source\repos\T01BinarySearch\T05.QuickSort\obj\Debug\netcoreapp3.1\T05.QuickSort.genruntimeconfig.cache
